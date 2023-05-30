@@ -6,8 +6,7 @@ The MC-Chat-filter-dataset is a preprocessed dataset comprising approximately 11
 ## Contents
 The dataset is provided in a structured format, with each message associated with relevant metadata. Each entry in the dataset includes the following information:
 - Message content: The actual text of the Minecraft message.
-- Timestamp: The date and time when the message was sent.
-- User information: Details about the user who sent the message, such as a unique identifier or username.
+- Flagged?: If the message is flagged or save to use.
 
 ## Acknowledgements
 We would like to express our gratitude to the Minecraft community for contributing to this dataset. Without their participation and support, this valuable resource would not have been possible.
